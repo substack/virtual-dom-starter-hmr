@@ -10,6 +10,7 @@ with [npm run scripts](http://substack.net/task_automation_with_npm_run)
 # quick start
 
 ```
+$ npm install
 $ npm run watch &
 $ npm start
 ```
