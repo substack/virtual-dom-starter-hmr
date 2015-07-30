@@ -51,3 +51,7 @@ adds.
 
 Check out the [list of forks](https://github.com/substack/virtual-dom-starter/network/members)
 to see how other people have customized this starter repo.
+
+# license
+
+This software is released into the public domain.
