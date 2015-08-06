@@ -10,7 +10,7 @@
     "ecstatic": "~0.8.0",
     "main-loop": "^3.1.0",
     "uglifyjs": "~2.4.10",
-    "virtual-dom": "~2.0.1",
+    "virtual-dom": "^2.1.1",
     "watchify": "^3.2.3"
   },
   "license": "public domain"
