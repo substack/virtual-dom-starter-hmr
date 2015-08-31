@@ -10,7 +10,7 @@
     "browserify": "^11.0.1",
     "browserify-hmr": "~0.2.1",
     "ecstatic": "~0.8.0",
-    "main-loop": "^3.1.0",
+    "main-loop": "git@github.com:substack/main-loop.git#loop-state",
     "ud": "^1.0.4",
     "uglifyjs": "~2.4.10",
     "virtual-dom": "^2.1.1",
